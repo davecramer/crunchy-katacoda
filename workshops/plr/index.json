@@ -5,7 +5,7 @@
   "time": "3 hours",
   "details": {
     "steps": [
-      {"title": "PostgreSQL Setup", "text": "01-postgresql-setup.md"},
+      {"title": "PostgreSQL Setup", "text": "01-postgresql-setup.md"}
     ],
     "intro": {
       "courseData": "env-init.sh",
