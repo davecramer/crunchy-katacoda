@@ -1,0 +1,31 @@
+{
+  "title": "Debezium",
+  "description": "Replicating data using Debezium",
+  "difficulty": "Beginner",
+  "time": "20 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Prepare Environment",
+      "text": "step1.md"
+			
+    },
+	  {
+	  	"title": "Step 2 - Create Database Objects ",
+			"text": "step2.md"
+			}],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "crunchydata-single1"
+  }
+}
