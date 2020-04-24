@@ -3,7 +3,6 @@
 First step create, use pgbackup to create a replica
 
 ```
-sudo -iu postgres
 pg_basebackup -D 11/data1 -X stream -R
 
 ```{{execute}}
@@ -26,4 +25,5 @@ cat logfile1
 # Check to make sure we can connect
 ```
 psql -p 5433 davec
+\q
 ```{{execute}}
