@@ -4,21 +4,17 @@
   "difficulty": "Beginner",
   "time": "10 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
-			
-    },
+    "steps": [
 	  {
-	  	"title": "Step 2 - Create user ",
+	  	"title": "Step 1 - Create user ",
 			"text": "step2.md"
 	  },
 	  {
-	  	"title": "Step 3 - Load Data ",
+	  	"title": "Step 2 - Load Data ",
 			"text": "step3.md"
 	  },
 	  {
-	  	"title": "Step 4 - replication ",
+	  	"title": "Step 3 - replication ",
 			"text": "replication.md"
 	  }],
     "intro": {
