@@ -18,6 +18,8 @@
 			"text": "replication.md"
 	  }],
     "intro": {
+			"courseData": "env-init.sh"
+			"code": "set-env.sh"
       "text": "intro.md",
       "credits": ""
     },
